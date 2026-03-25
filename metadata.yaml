@@ -1,5 +1,5 @@
 homepage: "https://kirro.io"
 documentation: "https://kirro.io/blog/google-tag-manager"
 versions:
-  - sha: bf22cdbc57da32f2dbd468933f802f024d652c98
+  - sha: 6c5079f64e0af565c54857ebbb9ad1de02dfba2a
     changeNotes: Initial release.
